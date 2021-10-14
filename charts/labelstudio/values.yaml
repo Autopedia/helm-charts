@@ -1,0 +1,9 @@
+replicaCount: 1
+
+image:
+  repository: heartexlabs/label-studio
+  tag: 1.3.0
+
+labelStudioHost: 
+  host: my-labeling-domain.com
+  subpath: my-project
