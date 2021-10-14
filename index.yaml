@@ -3,12 +3,12 @@ entries:
   labelstudio:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-10-14T15:46:58.416659+09:00"
+    created: "2021-10-14T06:51:08.900456407Z"
     description: Label Studio Chart with custom domain
-    digest: d808cdc8f0c868b20c2a079c3cfe15e063188955aaa3464063f392cf4330b08d
+    digest: 3f976fbaffaf3911210e39685168a774468cad4e6db5089b238e6b45d0816488
     name: labelstudio
     type: application
     urls:
-    - labelstudio-0.1.2.tgz
-    version: 0.1.2
-generated: "2021-10-14T15:46:58.414862+09:00"
+    - https://github.com/Autopedia/helm-charts/releases/download/labelstudio-0.1.4/labelstudio-0.1.4.tgz
+    version: 0.1.4
+generated: "2021-10-14T06:51:08.900465807Z"
