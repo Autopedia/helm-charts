@@ -1,6 +1,6 @@
 apiVersion: v2
 name: labelstudio
-description: Label Studio Chart with label.doctor-cha.com
+description: Label Studio Chart with custom domain
 
 # A chart can be either an 'application' or a 'library' chart.
 #
